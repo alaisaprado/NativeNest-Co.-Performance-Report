@@ -52,7 +52,7 @@ The dashboard is **fully interactive** — allowing users to switch the selected
 
 Let’s connect and collaborate:
 
-- [LinkedIn]((https://www.linkedin.com/in/laisa-hurpia)
+- [LinkedIn](https://www.linkedin.com/in/laisa-hurpia)
 - [GitHub](https://github.com/alaisaprado)
 
   ---
@@ -106,5 +106,5 @@ O painel é **totalmente interativo** — permite alternar a métrica analisada 
 
 Se quiser trocar uma ideia ou colaborar:
 
-- [LinkedIn]((https://www.linkedin.com/in/laisa-hurpia)
+- [LinkedIn](https://www.linkedin.com/in/laisa-hurpia)
 - [GitHub](https://github.com/alaisaprado)
