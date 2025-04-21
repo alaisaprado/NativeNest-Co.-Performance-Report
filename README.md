@@ -1,63 +1,9 @@
 
-# 📊 Dashboard de Performance Comercial — NativeNest Co.
-
-[English version below ⬇️](#-commercial-performance-dashboard----nativenest-co)
-
----
-
-## 📌 Sobre o Projeto (PT-BR)
-
-Este projeto faz parte do meu portfólio de projetos em Power BI. O objetivo foi construir um dashboard dinâmico para acompanhar a performance comercial da empresa **NativeNest Co.** sob três óticas distintas:
-
-- 📦 **Quantidade Vendida**
-- 💰 **Valor de Vendas**
-- 📈 **Lucro Bruto**
-
-### 🎨 Funcionalidades
-
-O painel é **totalmente interativo** — permite alternar a métrica analisada com apenas um clique, atualizando automaticamente todos os indicadores, gráficos e segmentações. Além disso, é possível filtrar o ano analisado (**2023 ou 2024**).
-
-### 📈 Análises Disponíveis
-
-- ✅ **Comparativo YTD vs PYTD**  
-  Evolução da métrica escolhida no ano corrente em relação ao ano anterior.
-
-- 📅 **Evolução Mensal**  
-  Análise da variação mês a mês, destacando os períodos de melhor e pior desempenho.
-
-- 🌍 **Ranking de Países**  
-  Identificação dos países com maior variação negativa (**Bottom 10**), facilitando ações corretivas em mercados críticos.
-
-- 🛒 **Performance por Tipo de Produto**  
-  Distribuição mensal por categoria (**Indoor**, **Landscape** e **Outdoor**), oferecendo insights sobre o mix de produtos.
-
-- 🤝 **Rentabilidade por Cliente**  
-  Gráfico de dispersão cruzando **Valor YTD** com **% de Lucro Bruto por cliente**.  
-  👉 Nele, é possível aplicar filtros e estabelecer targets de rentabilidade, visualizando com facilidade:
-  - Quais clientes são mais lucrativos
-  - Quais podem demandar revisão de estratégia comercial
-
-### 📎 Arquivos do Projeto
-
-- `dashboard_performance_nativeNest.pbix` — arquivo Power BI do projeto
-- `/images` — imagens e screenshots do dashboard
-
-### 🚀 Como Visualizar
-
-1. Baixe o arquivo `.pbix`
-2. Abra no [Power BI Desktop](https://powerbi.microsoft.com/pt-br/desktop/)
-3. Explore as análises e filtros interativos
-
-### 📫 Contato
-
-Se quiser trocar uma ideia ou colaborar:
-
-- [Seu LinkedIn](#) (inserir link)
-- [Seu GitHub](https://github.com/seu_usuario)
-
----
-
 # 📊 Commercial Performance Dashboard — NativeNest Co.
+
+[Versão em Português abaixo ⬇️](#-commercial-performance-dashboard----nativenest-co)
+
+---
 
 ## 📌 About the Project (EN)
 
@@ -93,7 +39,7 @@ The dashboard is **fully interactive** — allowing users to switch the selected
 
 ### 📎 Project Files
 
-- `dashboard_performance_nativeNest.pbix` — Power BI project file
+- `NativeNest Co. Performance Report.pbix` — Power BI project file
 - `/images` — dashboard screenshots and images
 
 ### 🚀 How to Open
@@ -106,5 +52,59 @@ The dashboard is **fully interactive** — allowing users to switch the selected
 
 Let’s connect and collaborate:
 
-- [Your LinkedIn](#) (add link)
-- [Your GitHub](https://github.com/your_username)
+- [LinkedIn](www.linkedin.com/in/laisa-hurpia)
+- [GitHub](https://github.com/alaisaprado)
+
+  ---
+  
+# 📊 Dashboard de Performance Comercial — NativeNest Co.
+
+## 📌 Sobre o Projeto (PT-BR)
+
+Este projeto faz parte do meu portfólio de projetos em Power BI. O objetivo foi construir um dashboard dinâmico para acompanhar a performance comercial da empresa **NativeNest Co.** sob três óticas distintas:
+
+- 📦 **Quantidade Vendida**
+- 💰 **Valor de Vendas**
+- 📈 **Lucro Bruto**
+
+### 🎨 Funcionalidades
+
+O painel é **totalmente interativo** — permite alternar a métrica analisada com apenas um clique, atualizando automaticamente todos os indicadores, gráficos e segmentações. Além disso, é possível filtrar o ano analisado (**2023 ou 2024**).
+
+### 📈 Análises Disponíveis
+
+- ✅ **Comparativo YTD vs PYTD**  
+  Evolução da métrica escolhida no ano corrente em relação ao ano anterior.
+
+- 📅 **Evolução Mensal**  
+  Análise da variação mês a mês, destacando os períodos de melhor e pior desempenho.
+
+- 🌍 **Ranking de Países**  
+  Identificação dos países com maior variação negativa (**Bottom 10**), facilitando ações corretivas em mercados críticos.
+
+- 🛒 **Performance por Tipo de Produto**  
+  Distribuição mensal por categoria (**Indoor**, **Landscape** e **Outdoor**), oferecendo insights sobre o mix de produtos.
+
+- 🤝 **Rentabilidade por Cliente**  
+  Gráfico de dispersão cruzando **Valor YTD** com **% de Lucro Bruto por cliente**.  
+  👉 Nele, é possível aplicar filtros e estabelecer targets de rentabilidade, visualizando com facilidade:
+  - Quais clientes são mais lucrativos
+  - Quais podem demandar revisão de estratégia comercial
+
+### 📎 Arquivos do Projeto
+
+- `NativeNest Co. Performance Report.pbix` — arquivo Power BI do projeto
+- `/images` — imagens e screenshots do dashboard
+
+### 🚀 Como Visualizar
+
+1. Baixe o arquivo `.pbix`
+2. Abra no [Power BI Desktop](https://powerbi.microsoft.com/pt-br/desktop/)
+3. Explore as análises e filtros interativos
+
+### 📫 Contato
+
+Se quiser trocar uma ideia ou colaborar:
+
+- [LinkedIn](www.linkedin.com/in/laisa-hurpia)
+- [GitHub](https://github.com/alaisaprado)
